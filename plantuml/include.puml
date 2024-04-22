@@ -1,0 +1,22 @@
+@startuml
+
+!include .\\Bank\Bank.WebApi\Program.puml
+!include .\\Bank\Bank.WebApi\WeatherForecast.puml
+!include .\\Bank\Bank.WebApi.Tests\BankAccountTests.puml
+!include .\\Bank\Bank.WebApi.Tests\Usings.puml
+!include .\\Bank\Bank.WebApi\Controllers\WeatherForecastController.puml
+!include .\\Bank\Bank.WebApi\Models\BankAccount.puml
+!include .\\Bank\Bank.WebApi\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+!include .\\Bank\Bank.WebApi\obj\Debug\net6.0\Bank.WebApi.AssemblyInfo.puml
+!include .\\Bank\Bank.WebApi\obj\Debug\net6.0\Bank.WebApi.GlobalUsings.g.puml
+!include .\\Bank\Bank.WebApi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.puml
+!include .\\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.AssemblyInfo.puml
+!include .\\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.GlobalUsings.g.puml
+!include .\\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.MvcApplicationPartsAssemblyInfo.puml
+!include .\\Bank\Bank.WebApi.Tests\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+!include .\\Bank\Bank.WebApi.Tests\obj\Debug\net6.0\Bank.WebApi.Tests.AssemblyInfo.puml
+!include .\\Bank\Bank.WebApi.Tests\obj\Debug\net6.0\Bank.WebApi.Tests.GlobalUsings.g.puml
+!include .\\Bank\Bank.WebApi.Tests\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.puml
+!include .\\Bank\Bank.WebApi.Tests\obj\Debug\net7.0\Bank.WebApi.Tests.AssemblyInfo.puml
+!include .\\Bank\Bank.WebApi.Tests\obj\Debug\net7.0\Bank.WebApi.Tests.GlobalUsings.g.puml
+@enduml

@@ -1,0 +1,11 @@
+﻿C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\Controllers\WeatherForecastController.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\Models\BankAccount.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\Program.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\WeatherForecast.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.GlobalUsings.g.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.AssemblyInfo.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\appsettings.Development.json
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\appsettings.json
+C:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\Properties\launchSettings.json

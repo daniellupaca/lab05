@@ -1,0 +1,9 @@
+@startuml
+class BankAccount {
+    + BankAccount(customerName:string, balance:double)
+    + CustomerName : string <<get>>
+    + Balance : double <<get>>
+    + Debit(amount:double) : void
+    + Credit(amount:double) : void
+}
+@enduml

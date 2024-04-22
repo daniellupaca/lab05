@@ -1,0 +1,5 @@
+@startuml
+class BankAccountTests {
+    + Debit_WithValidAmount_UpdatesBalance() : void
+}
+@enduml

@@ -1,0 +1,34 @@
+
+7Bank.WebApi.Controllers.WeatherForecastController.Get()t
+jC:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\Controllers\WeatherForecastController.cs( (+"2*Ø
+0 (	”
+‘
+ (%/
+%0)System.Collections.Generic.IEnumerable<T>"&System.Linq.Enumerable.Range(int, int)*"
+System.Linq.Enumerable*2*2œ
+™
+ (
+/
+%1)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*31
+/
+%0)System.Collections.Generic.IEnumerable<T>*
+""ß
+Ü
+ (#
+%2Bank.WebApi.WeatherForecast[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*31
+/
+%1)System.Collections.Generic.IEnumerable<T>"1
+ (%
+#
+%2Bank.WebApi.WeatherForecast[]*.
+1 ("
+ (
+implicit return*4
+2- (- 
+
+( (+
+%3"__entrypoint*
+0B53
+1Bank.WebApi.Controllers.WeatherForecastController

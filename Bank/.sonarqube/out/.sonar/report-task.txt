@@ -1,0 +1,7 @@
+organization=jeanvalverde24
+projectKey=Bank
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.47093
+dashboardUrl=https://sonarcloud.io/dashboard?id=Bank
+ceTaskId=AYr_M5yzSYTTyIg9CxFU
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYr_M5yzSYTTyIg9CxFU

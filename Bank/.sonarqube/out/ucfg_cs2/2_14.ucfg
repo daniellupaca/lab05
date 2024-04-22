@@ -1,0 +1,35 @@
+
+-Bank.WebApi.Models.BankAccount.Credit(double)a
+WC:\Users\PC\lab-2023-ii-cps-u1-04-JeanValverde24\Bank\Bank.WebApi\Models\BankAccount.cs ("0*
+0 (*
+1
+2*è
+1 (>ZX
+ (?(
+%0"System.ArgumentOutOfRangeException""System.ArgumentOutOfRangeExceptionû
+õ
+ (5
+
+%1void"GSystem.ArgumentOutOfRangeException.ArgumentOutOfRangeException(string?)*,*
+(
+%0"System.ArgumentOutOfRangeException*
+
+amount*
+3*ç
+2 ("
+ 
+ (
+%2"__id*
+""U
+S
+ (7 
+Bank.WebApi.Models.BankAccount"
+	m_balancedouble"__id*
+""*
+3*.
+3	 (	"
+ (	
+implicit return:
+ ((
+amountdoubleB" 
+Bank.WebApi.Models.BankAccount
